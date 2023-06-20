@@ -1,0 +1,8 @@
+email = ""
+password = ""
+name = ""
+card = ""
+month = ""
+year = ""
+cvv = ""
+link = "https://us.zotacstore.com/us/graphics-cards"
